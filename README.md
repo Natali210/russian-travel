@@ -7,5 +7,5 @@
 Флексбоксы, гриды, трансформация, позиционирование. Структура проекта подготовлена в соответствии с БЭМ Nested.
 
 ## *Ссылки:*
-GitHub: https://github.com/Natali210/russian-travel
+GitHub: https://natali210.github.io/russian-travel/
 Figma: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
