@@ -1,0 +1,24 @@
+.root__places {
+  margin: 0 148px 0 148px;
+}
+
+@media screen and (max-width: 1279px) {
+  .root__places {
+    margin: 0 48px 0 48px;
+  }
+} 
+    
+@media screen and (max-width: 1023px) {
+  .root__places {
+    margin: 0 24px;
+    gap: 73px;
+  }
+} 
+    
+@media screen and (max-width: 767px) {
+  .root__places {
+    margin: 0;
+    width: 100%;
+    gap: 50px;
+  }
+} 
